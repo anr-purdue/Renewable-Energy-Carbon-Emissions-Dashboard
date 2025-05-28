@@ -80,18 +80,6 @@ Although datasets are global in scope, our analysis is **U.S.-centric**, enablin
 
 ---
 
-## 👤 Contributor Spotlight: Darshan Upadhyay
-
-As part of the Tableau team, I was responsible for:
-
-- **Creating the filled map visualization** showing U.S. state-wise carbon emissions and intensity  
-- **Data blending and calculations** for highlighting above-average intensity states  
-- Ensuring **interactivity and design clarity** within the dashboard
-
-This project reflects my commitment to data-driven storytelling and building actionable insights in sustainability.
-
----
-
 ## 📎 Files Included
 
 - `Renewable_Energies_Group_2.twbx` – Tableau packaged workbook (main dashboard)
